@@ -13,3 +13,9 @@ El botón debe ser presionado hasta que en la pantalla se muestre el siguiente n
 ![Funcionamiento](https://raw.githubusercontent.com/Jaela-C/Ejercicio-NumerosPrimos-Flutter/master/images/Next2.PNG)
 
 ![Funcionamiento](https://raw.githubusercontent.com/Jaela-C/Ejercicio-NumerosPrimos-Flutter/master/images/Next3.PNG)
+
+## Función
+
+Las funciones que se implementaron para el funcionamiento de la aplicación
+
+![Función](https://raw.githubusercontent.com/Jaela-C/Ejercicio-NumerosPrimos-Flutter/master/images/Function.PNG)
